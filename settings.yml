@@ -1,0 +1,5 @@
+site_width:
+  type: integer
+  default: 1110
+  min: 1110
+  description: Site's maximum width in pixels. Minimum 1110px.
